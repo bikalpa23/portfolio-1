@@ -3,25 +3,25 @@
 export const data = [
   {
     id: 1,
-    img: 'https://i.postimg.cc/VkRWdHWx/57214s81.jpg',
-    title: "Multimedia Web",
+    img: 'https://i.postimg.cc/1XY7sBzk/1.png',
+    title: "Another Portfolio",
     desc: "",
-    link: "",
+    link: "http://bikalpasangat.com.np/?i=1",
     git: "",
   },
   {
     id: 2,
-    img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
-    title: "Tarvel Agency",
-    link: "",
+    img: 'https://i.postimg.cc/KzmmMG5Z/2.png',
+    title: "E-Commerce Website",
+    link: "https://bsecom.netlify.app/",
     git: "",
   },
   {
     id: 3,
-    img: 'https://i.postimg.cc/wBjcJcW7/5890625.jpg',
+    img: 'https://i.postimg.cc/Vvn6qGCw/3.png',
     title: "Music Player",
     desc: "",
-    link: "",
+    link: "https://bsmusic.netlify.app/",
     git: "",
   }
   
